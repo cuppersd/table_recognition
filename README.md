@@ -6,4 +6,4 @@
 ![点提取](images/14joints.jpg)
 
 ### 3. 线提取
-![线提取](images/14mask.jpg.jpg)
+![线提取](images/14mask.jpg)
