@@ -156,4 +156,5 @@ if __name__ == '__main__':
     img = cv2.imread('./images/14.jpg')
     cv2.imshow("img", img)
     mask, joint = detectTable(img).run()
+    # dispaly image
     cv2.waitKey()
