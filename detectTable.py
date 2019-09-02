@@ -152,6 +152,7 @@ def drawLine(all_lines, height=841, width=595):
 
 
 if __name__ == '__main__':
+    # image
     img = cv2.imread('./images/14.jpg')
     cv2.imshow("img", img)
     mask, joint = detectTable(img).run()
